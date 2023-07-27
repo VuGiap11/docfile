@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\docfile\bin\Debug\docfile.exe.config
+C:\Users\tuan\Desktop\docfile\bin\Debug\docfile.exe
+C:\Users\tuan\Desktop\docfile\bin\Debug\docfile.pdb
+C:\Users\tuan\Desktop\docfile\obj\Debug\docfile.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\docfile\obj\Debug\docfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\docfile\obj\Debug\docfile.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\docfile\obj\Debug\docfile.exe
+C:\Users\tuan\Desktop\docfile\obj\Debug\docfile.pdb
